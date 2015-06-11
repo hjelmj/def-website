@@ -5,7 +5,7 @@ permalink: /board/
 ---
 *Chairman*
 
-**Johan Hjelm (elected 2012)**  
+**Johan Hjelm** (elected 2012)  
 DTU Energy, Risø Campus, Frederiksborgvej 399, 4000 Roskilde
 
 *Vice-chairman*
