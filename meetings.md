@@ -12,7 +12,7 @@ Annual Meeting 2015, 1-2 October, at Copenhagen University:
 
 *2014*
 
-[Christmas Meeting 2014](/def-website/files/Invitation_DEF_ChristmasMeeting_2014.pdf), DTU, Lyngby: Kristian Mølhave, DTU Nanotech  
+[Christmas Meeting 2014](/def-website/files/Invitation_DEF_ChristmasMeeting_2014.pdf), Technical University of Denmark, Lyngby: Kristian Mølhave, DTU Nanotech  
 "The electrochemists'wish list for getting a clear view to nanoscale processes"
 
 Annual Meeting 2014, 9-10 October, at Radiometer Medical, Copenhagen:  
@@ -31,35 +31,54 @@ Annual Meeting 2013, 3-4 October, at Sørup Herregård, Ringsted:
 
 Christmas Meeting 2012, 6 December, Risø, Roskilde:  
 Professor Mogens Mogensen, DTU Energy Conversion, "Grøn elektrokemi og grønne kulbrinter"
-[Invitation](/def-website/files//def-website/files/Invitation_DEF_ChristmasMeeting_2012.pdf)
+[Invitation](/def-website/files/def-website/files/Invitation_DEF_ChristmasMeeting_2012.pdf)
 
 2012-10-11: DEF årsmøde på Aarhus Universitet
 
+Annual Meeting 2012, 11 October, at Aarhus University:  
+[Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2012.pdf)
+
+*2011*
+
+Annual Meeting 2011, 29-30 September, at University of Southern Denmark in Odense:  
+[Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2011.pdf)
+
+*2010*
+
+Annual Meeting 2010, 30 September & 1 October, at the Technical University of Denmark:  
+[Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2010.pdf)
+
 *2009*
+
+Annual Meeting 2009, 1-2 October, at Roskilde University:  
+[Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2009.pdf)
 
 2009-09-12: Julemøde "Har silicium-baserede solceller en fremtid?" Af Professor Arne Nylandsted Larsen (Link til personlig profil på Århus Universitet)
 
 *2008*
 
-2008-08-12: Julemøde:"The Faraday Legacy - A history of electroplating" af Professor David Gabe
+Christmas Meeting 2008, 8 December, "The Faraday Legacy - A history of electroplating" by Professor David Gabe
 
-2008-10-03 and 04: Conference on Electrochemical Science and Technology
+Annual Meeting 2008, 2-3 October, at Syddanske Forskerparker, Odense:  
+[Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2008.pdf)
 
 *2007*
 
-2007-12-11: Julemøde Berømte Elektrokemikere Bag Jerntæppet
+Christmas Meeting 2007, 11 December, "Berømte Elektrokemikere Bag Jerntæppet"
 
-2007-10-4 and 5: Conference on Electrochemical Science and Technology
+Annual Meeting 2007, 4-5 October, at The Danish Technological Institute in Aarhus and at Aarhus University:  
+[Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2007.pdf)
 
 *2006*
 
-2006-11-30: Julemøde H. C. Ørsteds tidlige kemiske og elektrokemiske arbejder
+Christmas Meeting 2006, 30 November, "H. C. Ørsteds tidlige kemiske og elektrokemiske arbejder"
 
-2006-10-5 and 6: Conference on Electrochemical Science and Technology
+Annual Meeting 2006, 5-6 October, at the Technical University of Denmark, Lyngby:  
+[Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2006.pdf)
 
-2006-4-28: Dieter Britz og Boy Høyer, Århus Universitet Afdelingen for Analytisk Kemi ”Dieter Britz og Boy Høyer
+Presentation, 2006-4-28: Dieter Britz og Boy Høyer, Århus Universitet Afdelingen for Analytisk Kemi ”Dieter Britz og Boy Høyer
 
-2006-1-(4-6): Dansk Metallurgisk Selskabs vintermøde 2006 ”Korrosion: mekanismer, havarier og beskyttelse”
+Dansk Metallurgisk Selskabs Winter Meeting 2006, 4-6 January, ”Korrosion: mekanismer, havarier og beskyttelse”
 
 *2005*
 
