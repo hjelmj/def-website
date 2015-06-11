@@ -1,0 +1,18 @@
+---
+layout: post
+title: Test Post!
+date: 2015-06-01
+category: news
+---
+
+This is a test post made using the web-interface.
+
+##this is a level 2 heading
+
+test text
+
+*italics*
+
+**bold**
+
+a link to our web-site [www.electrochemistry.dk](www.electrochemistry.dk)
