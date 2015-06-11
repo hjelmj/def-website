@@ -5,27 +5,33 @@ permalink: /meetings/
 ---
 ##Current Meetings
 
-
-
+Annual Meeting 2015, 1-2 October, at Copenhagen University:  
+[1st Call for Contributions](def-website/files/First_Announcement_DEF_Annual_Meeting_2015_KU.pdf). See also the post [here](/def-website/First-Announcement)
 
 ##Past meetings
 
 *2014*
 
-DEF Christmas Meeting 2014: 
+[Christmas Meeting 2014](/def-website/files/Invitation_DEF_ChristmasMeeting_2014.pdf), DTU, Lyngby: Kristian Mølhave, DTU Nanotech  
+"The electrochemists'wish list for getting a clear view to nanoscale processes"
 
-DEF årsmøde 2014 Indbydelse til årsmøde 2014
+Annual Meeting 2014, 9-10 October, at Radiometer Medical, Copenhagen:  
+[Call for Contributions](def-website/files/SecondAnnouncement_DEF_AnnualMeeting_2014.pdf),
+[Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2014.pdf).
 
 *2013*
 
-DEF julemøde 2013: Indbydelse til julemøde 2013
+Christmas Meeting 2013: *Cancelled due to severe weather conditions.*  
+[Invitation](/def-website/files/Invitation_DEF_ChristmasMeeting_2013.pdf)
 
-DEF årsmøde 2013: Indbydelse til årsmøde 2013
+Annual Meeting 2013, 3-4 October, at Sørup Herregård, Ringsted:  
+[Call for Contributions](/def-website/files/), [Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2013.pdf)
 
 *2012*
 
-DEF Julemøde v. Professor Mogens Mogensen, DTU Energikonvertering.
-6. December 2012 på DTU Risø Campus. Mere info om arrangementet her
+Christmas Meeting 2012, 6 December, Risø, Roskilde:  
+Professor Mogens Mogensen, DTU Energy Conversion, "Grøn elektrokemi og grønne kulbrinter"
+[Invitation](/def-website/files//def-website/files/Invitation_DEF_ChristmasMeeting_2012.pdf)
 
 2012-10-11: DEF årsmøde på Aarhus Universitet
 
