@@ -6,7 +6,7 @@ permalink: /meetings/
 ##Current Meetings
 
 Annual Meeting 2015, 1-2 October, at Copenhagen University:  
-[1st Call for Contributions](def-website/files/First_Announcement_DEF_Annual_Meeting_2015_KU.pdf). See also the post [here](/def-website/First-Announcement)
+[1st Call for Contributions](/def-website/files/First_Announcement_DEF_Annual_Meeting_2015_KU.pdf). See also the post [here](/def-website/First-Announcement)
 
 ##Past meetings
 
@@ -16,7 +16,7 @@ Annual Meeting 2015, 1-2 October, at Copenhagen University:
 "The electrochemists'wish list for getting a clear view to nanoscale processes"
 
 Annual Meeting 2014, 9-10 October, at Radiometer Medical, Copenhagen:  
-[Call for Contributions](def-website/files/SecondAnnouncement_DEF_AnnualMeeting_2014.pdf),
+[Call for Contributions](/def-website/files/SecondAnnouncement_DEF_AnnualMeeting_2014.pdf),
 [Program and Abstracts](/def-website/files/Program_Abstracts_AnnualMeeting_2014.pdf).
 
 *2013*
