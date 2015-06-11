@@ -6,7 +6,7 @@ permalink: /bylaws/
 
 ##By-laws for the Danish Electrochemical Society
 
-*The original by-laws are available in Danish <a href="/files/vedtaegter_bylaws_DK.pdf">here</a>*
+*The original by-laws are available in Danish <a href="/def-website/files/vedtaegter_bylaws_DK.pdf">here</a>*
 
 § 1: The name of the association is "Danish Electrochemical Society". Its head office is in Copenhagen. The association is represented financially by the treasurer.
 
